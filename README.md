@@ -160,9 +160,8 @@ GITHUB_TOKEN=your-token
 3. Run:
 
 ```bash
-python init_project.py --path /path/to/projects --root my-new-ml-repo
+python init_project.py --path /path/to/projects --root my-new-ml-repo --desc --desc "This project is created to automate ml project automation" --python 3.13.1 --branch project-initialization --python python
 ```
-
 ---
 
 ## 🙌 Contribute
